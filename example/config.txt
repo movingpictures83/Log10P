@@ -1,0 +1,2 @@
+Prefix plugins/Log10P/example
+Plugin Log10P inputfile parameters.txt outputfile output.transformed.csv
